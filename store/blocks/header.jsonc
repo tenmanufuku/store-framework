@@ -55,7 +55,7 @@
         "props": {
             "inverted": true,
             "sticky": true,
-            "fullwidth": false
+            "fullWidth": false
         }
     },
 
