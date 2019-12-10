@@ -3,7 +3,7 @@
     "blocks": [
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row#row"
+      "flex-layout.row"
     ]
   },
 
@@ -38,7 +38,7 @@
 
   },
 
-  "flex-layout.row#row": {
+  "flex-layout.row": {
     "children":[
       "info-card#rethink",
       "flex-layout.col#column"
